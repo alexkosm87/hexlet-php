@@ -1,0 +1,11 @@
+{
+    "name": "alexkosm87/hexlet-php",
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "kosm24@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
